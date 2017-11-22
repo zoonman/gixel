@@ -1,6 +1,6 @@
 # gixel.Pixel
 
-One transparent Gif pixel as Go string (8-bit sRGB).
+One transparent Gif pixel as Go string (8-bit sRGB). 35 bytes of pure beauty.
 
 
 ## Usage example
@@ -40,8 +40,6 @@ func main() {
 	}
 }
 ```
-
-GIF size is 35 bytes.
 
 
 ## Local iMac benchmarks
